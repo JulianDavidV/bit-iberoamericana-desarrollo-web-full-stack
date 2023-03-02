@@ -1,2 +1,4 @@
 # bit-iberoamericana-desarrollo-web-full-stack
-Julian David Vargas Espinosa proyecto de repositorio
+Proyecto nuevo Julian Vargas
+Inicio de repositorio modificando el README   
+presentado por Julian Vargas
